@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-ca47f": {
+      "hosting": {
+        "empleados": [
+          "empleados-ca47f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-ca47f"
+  }
+}
